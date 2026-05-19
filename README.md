@@ -34,3 +34,11 @@ Telco customer churn dataset.
 - Created Tenure Group column
 - Created Charge Category column
 - Cleaned text formatting
+
+## Dashboard Components
+
+### Churn Rate Overview
+- Created churn rate KPI card
+- Created donut chart for churn distribution
+- Added customer summary metrics
+- Added interactive slicers
