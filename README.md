@@ -64,3 +64,17 @@ Visuals used:
 - Bar charts
 - Donut charts
 - Column charts
+
+
+## Churn Analysis Dashboard
+
+Created visualizations for:
+- Churn by contract type
+- Churn by payment method
+- Churn by internet service
+- Heatmap-style churn matrix
+
+Visuals used:
+- Stacked bar charts
+- Clustered charts
+- Matrix heatmap
