@@ -24,3 +24,13 @@ Telco customer churn dataset.
 ## Tools Used
 - Power BI
 - GitHub
+
+## Data Transformation Steps
+
+- Removed blank rows
+- Fixed missing values
+- Changed data types
+- Removed duplicates
+- Created Tenure Group column
+- Created Charge Category column
+- Cleaned text formatting
