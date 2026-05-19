@@ -42,3 +42,17 @@ Telco customer churn dataset.
 - Created donut chart for churn distribution
 - Added customer summary metrics
 - Added interactive slicers
+
+## Customer Demographics Dashboard
+
+Created visualizations for:
+- Gender distribution
+- Partner status
+- Dependent status
+- Senior citizen analysis
+
+Visuals used:
+- Pie charts
+- Bar charts
+- Donut charts
+- Column charts
