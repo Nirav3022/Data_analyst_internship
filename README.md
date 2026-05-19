@@ -51,6 +51,14 @@ Created visualizations for:
 - Dependent status
 - Senior citizen analysis
 
+## Customer Tenure Analysis
+
+Created:
+- Histogram for tenure distribution
+- Tenure group analysis
+- Customer loyalty segmentation
+- Optional box plot visualization
+
 Visuals used:
 - Pie charts
 - Bar charts
